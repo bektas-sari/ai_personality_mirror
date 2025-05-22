@@ -20,7 +20,7 @@ It simulates MBTI-based analysis using keyword matching, providing insights like
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai_personality_mirror.git
+git clone https://github.com/bektas-sari/ai_personality_mirror.git
 cd ai_personality_mirror
 ```
 
