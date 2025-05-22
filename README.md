@@ -1,6 +1,7 @@
-# 🧠 AI Personality Mirror
+# 🧠 AI Personality Mirror (Flutter APP)
 
-**AI Personality Mirror** is a minimalist Flutter application that analyzes user personality traits based on a short self-description. It simulates MBTI-based analysis using keyword matching, providing insights like personality type, strengths, and tips — all without needing an internet connection.
+**AI Personality Mirror** is a minimalist Flutter application that analyzes user personality traits based on a short self-description. 
+It simulates MBTI-based analysis using keyword matching, providing insights like personality type, strengths, and tips — all without needing an internet connection.
 
 ---
 
