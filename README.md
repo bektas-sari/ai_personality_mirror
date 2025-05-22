@@ -67,9 +67,9 @@ assets/                # (Optional) For images or fonts
 ## 👤 Developer
 
 **Bektas Sari**  
-Email: bektas.sari@gmail.com  
-GitHub: https://github.com/bektas-sari
-LinkedIn: www.linkedin.com/in/bektas-sari
+Email: bektas.sari@gmail.com  <br>
+GitHub: https://github.com/bektas-sari <br>
+LinkedIn: www.linkedin.com/in/bektas-sari <br>
 Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3
 Academia: https://independent.academia.edu/bektassari
 
